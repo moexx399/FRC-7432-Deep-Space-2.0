@@ -22,6 +22,7 @@
 	<Property Name="varPersistentID:{901159F9-F891-4A81-B181-D9B603EC0966}" Type="Ref">/Target/Shared Variables.lvlib/NavX/Yaw</Property>
 	<Property Name="varPersistentID:{926A5D2D-11DA-48DB-BF67-CF6A8EE3ABC2}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Strafe Correction Voltage</Property>
 	<Property Name="varPersistentID:{B0DB8AF8-CE08-4DB7-87CD-73DFF7A407CF}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Field Centric</Property>
+	<Property Name="varPersistentID:{B1E55DEB-9B46-459B-B450-C759B76F3AA5}" Type="Ref">/Target/Shared Variables.lvlib/Climber/Loops_of_Climb</Property>
 	<Property Name="varPersistentID:{B4355922-D438-4ECA-982D-A888B24A831C}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/POV</Property>
 	<Property Name="varPersistentID:{B8320C1C-095C-48F2-BB10-852589C0FBEA}" Type="Ref">/Target/Shared Variables.lvlib/NavX/Fused Heading</Property>
 	<Property Name="varPersistentID:{BF8DDBBB-CA27-4A72-AD26-BA851E2A85B7}" Type="Ref">/Target/Shared Variables.lvlib/Drive Train/Solonoid References</Property>
@@ -720,7 +721,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
